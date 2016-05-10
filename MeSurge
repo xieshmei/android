@@ -965,6 +965,12 @@ DOMAIN-SUFFIX,ying.com,Group
 DOMAIN-SUFFIX,youtu.be,Group
 DOMAIN-SUFFIX,yoyo.org,Group
 DOMAIN-SUFFIX,ytimg.com,Group
+//custom
+DOMAIN-SUFFIX,android.com,Group
+DOMAIN-SUFFIX,googlesyndication.com,Group
+DOMAIN-SUFFIX,googleapis.com,Group
+DOMAIN-SUFFIX,google-analytics.com,Group
+
 
 // Beijing Mobile Float
 IP-CIDR,221.179.140.0/24,REJECT,no-resolve
